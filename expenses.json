@@ -1,0 +1,20 @@
+[
+  {
+    "amount": 300.0,
+    "currency": "USD",
+    "category": "Food",
+    "payment": "Cash",
+    "date": "2025-08-03",
+    "description": "for food",
+    "usd_amount": 300.0
+  },
+  {
+    "amount": 200.0,
+    "currency": "EUR",
+    "category": "Housing",
+    "payment": "Credit Card",
+    "date": "2025-08-03",
+    "description": "",
+    "usd_amount": 235.29
+  }
+]
